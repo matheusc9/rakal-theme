@@ -10,6 +10,7 @@ PT-BR
 Pronto, muito simples né? Só abrir o YouTube e o tema será carregado automaticamente!
 
 
+
 EN-US
 # How to install RakalTheme on your YouTube?
 
