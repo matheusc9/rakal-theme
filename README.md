@@ -15,7 +15,7 @@ Siga os passos abaixo para instalar o RakalTheme no Google Chrome:
 
 3. Clique em **"Carregar sem compactação"**.
 
-4. Selecione a pasta `src` incluída neste repositório.
+4. Selecione a pasta `src` incluída arquivo compactado.
 
 5. Pronto! Agora é só abrir o YouTube e aproveitar o novo visual automaticamente aplicado.
 
