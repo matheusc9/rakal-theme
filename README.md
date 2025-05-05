@@ -1,30 +1,33 @@
-# Como instalar o RakalTheme no seu Youtube?
+# 🎨 RakalTheme for YouTube
 
-É simples, fácil e rápido! Siga as etapas abaixo:
+**RakalTheme** é um tema personalizado para o YouTube, projetado para oferecer uma aparência moderna e exclusiva à plataforma. Com uma instalação rápida e simples, você pode transformar a interface do YouTube em poucos cliques.
 
-1 - Vá até a pagina de extensões do seu navegador (No Chrome, "chrome://extensions/")
+---
 
-2 - Ative a opção "Modo do desenvolvedor"
+## 🚀 Instalação
 
-3 - Clique em "Carregar sem compactação" e selecione a pasta "src" nesta mesma pasta.
+Siga os passos abaixo para instalar o RakalTheme no Google Chrome:
 
+1. Acesse a página de extensões do navegador:  
+   `chrome://extensions/`
 
-Pronto, muito simples né? Só abrir o YouTube e o tema será carregado automaticamente!
+2. Ative o **Modo do desenvolvedor** (canto superior direito).
 
+3. Clique em **"Carregar sem compactação"**.
 
-# How to install RakalTheme on your YouTube?
+4. Selecione a pasta `src` incluída neste repositório.
 
-It's simple, easy and fast! Follow the steps below:
+5. Pronto! Agora é só abrir o YouTube e aproveitar o novo visual automaticamente aplicado.
 
-1 - Go to your browser's extensions page (In Chrome, "chrome://extensions/")
+---
 
-2 - Enable the "Developer Mode" option
+## 🔄 Atualizações
 
-3 - Click on "Upload without compression" and select the "src" folder in this same folder
+Sempre que houver uma nova versão do tema, você poderá baixá-la no link abaixo:
 
+🔗 [Download da versão mais recente (RakalTheme.rar)](https://github.com/romay2k/yt-theme/blob/main/RakalTheme.rar)  
+🗝️ **Chave de ativação**: `9XK3J-PZ7LQ-M4T8B-W2F9N`
 
-That's it, very simple, right? Just open YouTube and the theme will be loaded automatically!
+---
 
-
-# Updates "https://github.com/romay2k/yt-theme/blob/main/RakalTheme.rar" and click "View raw"
-# Key: 9XK3J-PZ7LQ-M4T8B-W2F9N
+## 📂 Estrutura do Projeto
