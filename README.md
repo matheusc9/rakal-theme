@@ -32,6 +32,6 @@ Sempre que houver uma nova versão do tema, você poderá baixá-la no link abai
 
 ## 🖼️ Preview
 
-![Preview do RakalTheme](assets/preview.png)
+![Preview do RakalTheme](preview.png)
 
 Copyright © 2021-present
