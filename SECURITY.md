@@ -1,21 +1,40 @@
-# Security Policy
+# 🔐 Security Policy
 
-## Supported Versions
+## 📅 Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+A tabela abaixo indica quais versões do RakalTheme atualmente recebem atualizações de segurança:
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| Versão        | Suportada |
+|---------------|-----------|
+| Última (main) | ✅        |
+| Versões antigas | ❌      |
 
-## Reporting a Vulnerability
+---
 
-Use this section to tell people how to report a vulnerability.
+## 📢 Como Reportar Vulnerabilidades
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Se você identificar alguma vulnerabilidade neste projeto:
+
+1. **Não crie uma issue pública.**
+2. Em vez disso, abra uma **[issue privada](https://github.com/romay2k/yt-theme/issues/new/choose)** usando o template apropriado (caso esteja disponível).
+3. Forneça detalhes claros:
+   - Descrição do problema
+   - Etapas para reproduzir
+   - Potencial impacto
+   - Capturas de tela ou código (se possível)
+
+Todas as vulnerabilidades relatadas serão avaliadas com prioridade. Você será informado assim que uma correção estiver em andamento ou concluída.
+
+---
+
+## 🔒 Boas Práticas de Segurança
+
+- Use apenas as versões oficiais disponíveis neste repositório.
+- Não compartilhe arquivos modificados por terceiros.
+- Nunca distribua sua chave de ativação.
+
+---
+
+## 🙏 Obrigado
+
+Agradecemos seu apoio na identificação e resolução de problemas de segurança. Sua colaboração mantém o projeto mais seguro para todos os usuários.
