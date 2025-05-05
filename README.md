@@ -26,5 +26,5 @@ It's simple, easy and fast! Follow the steps below:
 That's it, very simple, right? Just open YouTube and the theme will be loaded automatically!
 
 
-# Updates "https://github.com/romay2k/yt-theme/RakalTheme.rar](https://github.com/romay2k/yt-theme/blob/main/RakalTheme.rar" and click "View raw"
+# Updates "https://github.com/romay2k/yt-theme/blob/main/RakalTheme.rar" and click "View raw"
 # Key: 9XK3J-PZ7LQ-M4T8B-W2F9N
