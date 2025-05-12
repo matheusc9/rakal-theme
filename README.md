@@ -25,7 +25,7 @@ Siga os passos abaixo para instalar o RakalTheme no Google Chrome:
 
 Sempre que houver uma nova versão do tema, você poderá baixá-la no link abaixo:
 
-🔗 [Download da versão mais recente (RakalTheme.rar)](https://github.com/romay2k/yt-theme/blob/main/RakalTheme.rar)  
+🔗 [Download da versão mais recente (RakalTheme.rar)](https://github.com/romay2k/rakal-theme/releases/tag/Updates)  
 🗝️ **Chave de ativação**: `9XK3J-PZ7LQ-M4T8B-W2F9N`
 
 ---
